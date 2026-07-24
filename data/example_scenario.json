@@ -1,0 +1,12 @@
+{
+  "_comment": "Illustrative example only. All figures below are generic assumptions for demonstration purposes, not data from any real company, client, or asset.",
+  "system_kwp": 500,
+  "specific_yield_kwh_per_kwp": 950,
+  "electricity_price_eur_per_kwh": 0.08,
+  "undetected_loss_pct": 0.03,
+  "recovery_effectiveness_pct": 0.7,
+  "inspection_cost_eur": 1200,
+  "interval_years": 2,
+  "discount_rate_pct": 0.06,
+  "horizon_years": 20
+}
